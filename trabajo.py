@@ -51,3 +51,9 @@ Tocantinense = ["Tocantinópolis", "Capital-TO", "Araguacema", "União Carmolân
 Amapaense = ["Independente-AP", "Trem", "Santos-AP", "Ypiranga-AP", "Macapá", "Santana", "São Paulo-AP", "Oratório"]
 
 Roraimense = ["Atlético Roraima", "São Raimundo-RR", "Náutico-RR", "River-RR", "Baré", "Gavião", "GAS", "Rio Negro-RR"]
+
+Serie_A = ["Atlético-MG", "Bahia", "Botafogo", "Ceará", "Corinthians", "Cruzeiro", "Flamengo", "Fluminense", "Fortaleza", "Grêmio", "Internacional", "Juventude", "Mirassol", "Palmeiras", "Red Bull Bragantino", "Santos", "São Paulo", "Sport", "Vasco da Gama", "Vitória"]
+
+Serie_B = ["Athletico-PR", "Atlético-GO", "Criciúma", "Cuiabá", "Amazonas", "América-MG", "Avaí", "Botafogo-SP", "Chapecoense", "Coritiba", "CRB", "Goiás", "Novorizontino", "Operário-PR", "Paysandu", "Vila Nova", "Athletic", "Ferroviária", "Remo", "Volta Redonda"]
+
+Serie_C = ["Brusque", "Guarani", "Ituano", "Ponte Preta", "ABC", "Botafogo-PB", "Caxias", "Confiança", "CSA", "Figueirense", "Floresta", "Londrina", "Náutico", "São Bernardo", "Tombense", "Ypiranga de Erechim", "Anápolis", "Itabaiana", "Maringá", "Retrô"]
