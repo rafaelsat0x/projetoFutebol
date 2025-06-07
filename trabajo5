@@ -67,6 +67,7 @@ while True:
     print("4. Mostrar rival mais difícil")
     print("5. Mostrar informações do seu clube")
     print("6. Mostrar total de gols de todos os times")
+    print("0. Sair")
     
     opcao = int(input("Escolha uma opção: "))
 
@@ -93,6 +94,11 @@ while True:
 
     elif opcao == 6:
         print(f"\nTotal de gols de todos os times participantes: {somaGolsDeTodosOsTimes()}")
+    
+    elif opcao == 0:
+        print("Saindo...")
+        break
+        exit()
 
     else:
         print("Opção inválida. Tente novamente.")
